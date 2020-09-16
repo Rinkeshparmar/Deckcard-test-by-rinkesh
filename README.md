@@ -1,5 +1,5 @@
 
-# we have created Mavan project in JAVA with pom.xml file
+# I have created Mavan project in JAVA with pom.xml file
 Steps to execute the test case are below
  1. Download this repositary zip file and unzip it and open in JAVA eclips
  2. Navigate to below path
